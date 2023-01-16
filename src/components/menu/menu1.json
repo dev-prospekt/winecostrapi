@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_menu_menu1s",
+  "info": {
+    "displayName": "Menu1"
+  },
+  "options": {},
+  "attributes": {
+    "data_key": {
+      "type": "integer",
+      "required": true
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
