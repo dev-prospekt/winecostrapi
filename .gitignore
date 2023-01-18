@@ -107,6 +107,7 @@ coverage
 ############################
 
 .env
+.htaccess
 license.txt
 exports
 *.cache
